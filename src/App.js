@@ -13,7 +13,7 @@ function App() {
         <a
           className="App-link"
           href="https://www.paf.mil.ph/"
-          target="_blank"
+          target="/"
           rel="Philippines Air Force"
         >
           Learn more about PAF
